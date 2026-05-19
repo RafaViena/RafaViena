@@ -56,13 +56,16 @@
    <li>Aprender mais sobre IA e desenvolvimento mobile </li>
    <li>Conseguir minha primeira oportunidade na área de tecnologia </li>
   </ul>
+  
+#
 
   📫 Contato
-  <ul>
-<li>GitHub: https://github.com/seuusuario</li>
-<li>LinkedIn: https://linkedin.com/in/seuperfil</li>
-<li>Email: seuemail@email.com</li>
+<ul>
+<li>Instagram: https://www.instagram.com/rafael_viana8/</li>
+<li>Email: rafaelvianapereira6@email.com</li>
 </ul>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaViena/RafaViena/output/github-contribution-grid-snake-dark.svg">
