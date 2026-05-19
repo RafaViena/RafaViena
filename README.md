@@ -3,6 +3,47 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na ETEC Antônio Devisate
 
 #
+### Linguagens e Tecnologia (Aprendendo)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
   Java | Python | Flutter | JavaScript | HTML | CSS | PHP | MySQL
   
@@ -17,9 +58,9 @@
 
   📫 Contato
   <ul>
-<li>GitHub: https://github.com/seuusuario
-LinkedIn: https://linkedin.com/in/seuperfil
-Email: seuemail@email.com
+<li>GitHub: https://github.com/seuusuario</li>
+<li>LinkedIn: https://linkedin.com/in/seuperfil</li>
+<li>Email: seuemail@email.com</li>
 </ul>
 
 <picture align="center">
