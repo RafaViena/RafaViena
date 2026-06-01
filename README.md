@@ -50,7 +50,7 @@
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Flutter/flutter-original.svg](https://devicons.io/?icon=mysql)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Flutter/flutter-original.svg" 
 />
 
 <img 
