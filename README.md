@@ -1,6 +1,6 @@
 👋 Olá, eu sou Rafael Viana Pereira.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na ETEC Antônio Devisate
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (DS) na ETEC Antônio Devisate
 
 #
 ### Linguagens e Tecnologia (Aprendendo)
@@ -43,6 +43,32 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Flutter/flutter-original.svg](https://devicons.io/?icon=mysql)" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Flutter/flutter-original.svg](https://devicons.io/?icon=java)" 
+/>
+<br>
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicons.io/?q=flutt&icon=flutter" 
 />
 <br>
 
